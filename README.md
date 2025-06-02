@@ -58,3 +58,4 @@ CHARTS'S REQUIREMENTS
   Chart type:Matrix Card
   
 Screenshot
+https://github.com/Sanjeev7827/Blinkit-Dashbaord/blob/main/Blinkit_Dashboard.png
