@@ -56,3 +56,5 @@ CHARTS'S REQUIREMENTS
 
   Objective: Provide a comprehensive view of all key metrics.
   Chart type:Matrix Card
+  
+Screenshot
